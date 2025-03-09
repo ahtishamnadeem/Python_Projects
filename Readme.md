@@ -8,3 +8,10 @@ This is just the beginning—many more exciting things to come! 💡
 
 #Python #Coding #Learning #FirstStep #Programming #HelloWorld #GIAIC #GIAICSTUDENT
 
+Project#1 (UNIT CONVERTER)
+
+https://unit-converter-codewithahtii.streamlit.app/
+
+Project#2 (PASSWORD GENERATOR)
+
+https://strong-password-generator.streamlit.app/
