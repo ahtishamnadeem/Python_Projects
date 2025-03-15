@@ -1,0 +1,9 @@
+[
+    {
+        "title": "Princess Flavia",
+        "author": "Duke Michal",
+        "year": "2025",
+        "genre": "greedy",
+        "read": true
+    }
+]
